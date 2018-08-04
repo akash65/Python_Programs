@@ -1,0 +1,5 @@
+tuple = ("arun","raj",34,34,[23,"sush",9])
+print (tuple)
+print (tuple[1:])
+print (tuple[1:2])
+print (tuple[:3])
